@@ -1,6 +1,9 @@
 # chatype-archive
 Archive of the Chattanooga Chatype typeface
 
+![Pangram sample of Chatype](https://raw.githubusercontent.com/inferno986return/chatype-archive/main/images/chatype_pangram.png)
+> Pangram sample of Chatype
+
 ![Flag of Chatanooga](https://raw.githubusercontent.com/inferno986return/chatype-archive/main/images/640px-Flag_of_Chattanooga%2C_Tennessee.svg.png)
 > Flag of Chattanooga, courtesy of Wikicommons (public domain)
 
@@ -13,4 +16,4 @@ According to Whois, the chatype.com domain will expire later this year; I am int
 
 **Chatype** was a bespoke slab-serif typeface created for promoting the city of Chattanooga, Tennessee. The creators claim this is the first bespoke typeface designed for an American city making Chatype a unique project.
 
-As a legacy the Chatype font is still used by the [https://chattlib.org/](Chattanooga Public Library) as of July 2021, in the main logo, a promotional video titled [*Welcome Back!*](https://youtu.be/zQdcWwvcThs) and a logo for online service chattliberary.tv with Chatype's unique "ch" ligature.
+As a legacy the Chatype font is still used by the [Chattanooga Public Library](https://chattlib.org/) as of July 2021, in the main logo, a promotional video titled [*Welcome Back!*](https://youtu.be/zQdcWwvcThs) and a logo for online service chattliberary.tv with Chatype's unique "ch" ligature.
